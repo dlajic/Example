@@ -1,2 +1,2 @@
 # Example
-just fpr trying out github
+just for trying out github
